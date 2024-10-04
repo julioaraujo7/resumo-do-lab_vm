@@ -1,3 +1,3 @@
 # resumo-do-lab_vm
 
-SLA como ele é calculado e a criação de VM
+Criação de VM para Recursos e Dimensionamentos em Máquinas Virtuais na Azure
